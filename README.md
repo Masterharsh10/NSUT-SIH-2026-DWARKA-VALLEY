@@ -65,7 +65,7 @@ TerraNav is a multi-tier edge-computing system that lets a haul truck sense its 
  
 ## 7. Repository Structure
  
-```
+
 TerraNav/
 ├── README.md
 ├── submission.md       
