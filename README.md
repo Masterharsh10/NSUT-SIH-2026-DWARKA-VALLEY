@@ -95,7 +95,7 @@ Link - https://drive.google.com/file/d/1zTn3Ow_8Lwkq7asrLZ14QZSwZh6zExr_/view?us
  
 ## 9. Demo Video
 
-Link - https://www.youtube.com/watch?v=YTs8wyJ8J9k
+Link - [https://www.youtube.com/watch?v=YTs8wyJ8J9k](https://youtu.be/ztpd98BaAKY)
  
  
 ## 10.Prototype Photos and costing
