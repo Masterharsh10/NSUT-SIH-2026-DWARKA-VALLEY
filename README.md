@@ -69,11 +69,8 @@ TerraNav is a multi-tier edge-computing system that lets a haul truck sense its 
 TerraNav/
 ├── README.md
 ├── submission.md       
-├── simulation/
-│   └── terranav_sim.py       # End-to-end radar → A* → AR simulation
-├── assets/
-│   └── screenshots/
-│       └── README.md
+├── terranav_sim.py       # End-to-end radar → A* → AR simulation
+├── esp_code.pdf
 ├── requirements.txt
 ├── .gitignore
 └── LICENSE
@@ -85,10 +82,9 @@ TerraNav/
 |---|---|
 | ESP32 / reflex firmware | `firmware/` |
 | Simulation (Python) | `simulation/` |
-| wiring reference, BOM | `docs/` |
 | Project screenshots / hardware photos | `assets/screenshots/` |
-| Final PPT / presentation | `submission/` |
-| Demo video link | `submission/DEMO.md` |
+| Final PPT / presentation | `submission.md/` |
+| Demo video link | `submission.md/` |
 | Project overview | `README.md` |
  
 ## 8. Final Presentation
