@@ -108,14 +108,22 @@ Link - https://www.youtube.com/watch?v=YTs8wyJ8J9k
 See [`assets/screenshots/README.md`](assets/screenshots/README.md) for examples and naming conventions.
  
 ## 11. Installation
- 
- 
 
- 
-## 12. Run
- 
- 
-## 13. Future Scope
+# 1. Clone the repository
+git clone https://github.com/<Masterharsh10>/<NSUT-SIH-2026-DWARKA-VALLEY
+>.git
+
+# 2. Navigate to the project folder
+cd <NSUT-SIH-2026-DWARKA-VALLEY
+>
+
+# 3. Install required Python libraries
+pip install numpy matplotlib pyserial keyboard
+
+# 4. Run the Python dashboard
+python main.py
+
+## 12. Future Scope
  
 - Integrate the real AWR1843 radar point cloud (simulated for the current demo)
 - Add genuine RTK correction (NTRIP feed or a dedicated base station) for centimeter-accurate positioning
