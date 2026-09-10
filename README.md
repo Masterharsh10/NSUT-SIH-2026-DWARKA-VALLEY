@@ -98,11 +98,11 @@ Link - https://drive.google.com/file/d/1zTn3Ow_8Lwkq7asrLZ14QZSwZh6zExr_/view?us
 Link - https://www.youtube.com/watch?v=YTs8wyJ8J9k
  
  
-## 10. Screenshots / Prototype Photos
+## 10.Prototype Photos and costing
  
 
  
-See [`assets/screenshots/README.md`](assets/screenshots/README.md) for examples and naming conventions.
+See [`assets/screenshots/README.md`](Images & Costing.pdf) for examples and naming conventions and industrial cost of proposed final solution.
  
 ## 11. Installation
 ```
