@@ -5,4 +5,4 @@
 ## Presentation file
 
 
-- **PPT:** `[Open Final Presentation](./YOUR_FINAL_PRESENTATION.pptx)`
+- **PPT:** `(https://drive.google.com/file/d/1zTn3Ow_8Lwkq7asrLZ14QZSwZh6zExr_/view?usp=sharing)`
