@@ -5,4 +5,5 @@
 ## Presentation file
 
 
-- **PPT:** `(https://drive.google.com/file/d/1zTn3Ow_8Lwkq7asrLZ14QZSwZh6zExr_/view?usp=sharing)`
+- **PPT:**
+- Link - https://drive.google.com/file/d/1zTn3Ow_8Lwkq7asrLZ14QZSwZh6zExr_/view?usp=sharing
