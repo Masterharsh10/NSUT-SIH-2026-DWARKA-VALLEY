@@ -102,7 +102,7 @@ Link - https://www.youtube.com/watch?v=YTs8wyJ8J9k
  
 
  
-See [`assets/screenshots/README.md`](Images & Costing.pdf) for examples and naming conventions and industrial cost of proposed final solution.
+See [`Images & Costing.pdf`] for examples and naming conventions and industrial cost of proposed final solution.
  
 ## 11. Installation
 ```
