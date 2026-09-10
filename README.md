@@ -61,11 +61,11 @@ TerraNav is a multi-tier edge-computing system that lets a haul truck sense its 
         │  V2X Broadcast              │
         │  Motor Reflex Cutoff        │
         └────────────────────────────┘
-```
+
  
 ## 7. Repository Structure
  
-
+```
 TerraNav/
 ├── README.md
 ├── submission.md       
@@ -77,7 +77,7 @@ TerraNav/
 ```
  
 ### What goes where?
- 
+``` 
 | Item | Location |
 |---|---|
 | ESP32 / reflex firmware | `firmware/` |
@@ -86,7 +86,7 @@ TerraNav/
 | Final PPT / presentation | `submission.md/` |
 | Demo video link | `submission.md/` |
 | Project overview | `README.md` |
- 
+ ```
 ## 8. Final Presentation
 
 Link - https://drive.google.com/file/d/1zTn3Ow_8Lwkq7asrLZ14QZSwZh6zExr_/view?usp=sharing
@@ -105,7 +105,7 @@ Link - https://www.youtube.com/watch?v=YTs8wyJ8J9k
 See [`assets/screenshots/README.md`](assets/screenshots/README.md) for examples and naming conventions.
  
 ## 11. Installation
-
+```
 # 1. Clone the repository
 git clone https://github.com/<Masterharsh10>/<NSUT-SIH-2026-DWARKA-VALLEY
 >.git
@@ -119,7 +119,7 @@ pip install numpy matplotlib pyserial keyboard
 
 # 4. Run the Python dashboard
 python main.py
-
+```
 ## 12. Future Scope
  
 - Integrate the real AWR1843 radar point cloud (simulated for the current demo)
